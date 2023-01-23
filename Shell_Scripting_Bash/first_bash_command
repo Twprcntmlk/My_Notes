@@ -1,0 +1,11 @@
+#! /bin/bash
+
+# Author: Full Name
+# Date Created: Today's Date
+# Last Modified: Date Modified
+
+# Description: What Script Does
+
+# Usage: How to Use
+echo "This is a script"
+exit 0

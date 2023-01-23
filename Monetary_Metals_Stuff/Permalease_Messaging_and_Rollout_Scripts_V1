@@ -1,0 +1,613 @@
+Permalease Messaging and Rollout Scripts
+
+Table of Contents
+
+Summary of Concepts and Proposed Languages
+
+Account Types
+
+Interest Rate Process Change
+
+Investing in Leases
+
+How this will affect you
+
+User Stories and Scripts
+
+Chris - Old Client for years
+
+Diane - New client
+
+Alternatives
+
+Implementation Implications
+
+Draft FAQ’s
+
+Open Questions
+
+Key Questions for RM’s
+
+Proposed Next Steps
+
+Cutting Room Floor/Additional Material
+
+Notes
+
+Summary of Concepts and Proposed Language
+
+
+
+Account Types
+
+
+
+There is one Monetary Metals Account Agreement that contains two different account types.
+
+The Yield Account vs Storage and Trading Account
+
+Yield Account vs Trading Account
+
+Yield Account vs The Storage Account
+
+To earn a yield, you have to put metal in the yield account (which is the permalease)
+
+If you just want to trade and hold metal that’s immediately liquid, that’s the storage account.
+
+Pay the same for storage as you would for GLD (40bps)
+
+Earn interest on gold and silver in your MM Yield account
+
+Move metal between the two accounts seamlessly
+
+Products can be held in the storage account, but must be converted if moving metal to the yield account
+
+Both account types are covered under one new account agreement, spelling out the terms and conditions of each account type, and all metals are covered as well
+
+Account agreement includes information about:
+
+How metal is allocated in leases
+
+Opt-out period and mechanisms
+
+Which current leases are available and how to opt out of them
+
+How to move metal from storage to yield account types and vice versa
+
+
+
+
+
+Interest Rate Process Change
+
+
+
+We are retiring the MM auction process for setting interest rates because:
+
+It enables greater deal throughput for clients, and MM to operate at scale
+
+Reduces the burden of process for investing in MM leases
+
+Current mode is unsustainable for the growth we project in deals and marketplace participants
+
+We’ve done a sufficient number of deals with sufficient variety to get a sense for the market rates
+
+Overwhelming client feedback and behavior that suggests MM is best positioned to determine the interest rate on these types of agreements.
+
+Interest rates will be set by a multi-stage process which incorporates our due diligence team, credit underwriting team, a proprietary model developed to incorporate the previous interest rates set in our market, and industry best practices for assigning an interest rate to precious metals leases.
+
+
+
+Change of Process for Investing in Leases
+
+
+
+MM moving from an “opt-in” to an “opt-out” model. Previously you would have to sign a lease agreement for each lease that you would want to offer your metal on. This paperwork and analysis burden is significant. Now, by signing the new account terms, your metal is perpetually on offer for all leases.
+
+If you don’t want to be in a lease for any reason, then you opt-out of the lease. This significantly reduces the burden of process on our clients and offers a much more streamlined approach.
+
+There will still be slide decks for every deal, and a review period to analyze the deal and decide to opt-out
+
+Allocations in the new MM Yield account will be determined by your account size. The larger the account size, the larger allocation you will receive in each new lease and leases generally.
+
+Automatic rebalance - additionally, the new account comes with an auto-rebalance feature. At each new lease, and lease roll, your account will be further diversified across all leases you’re invested in.
+
+With each new lease offered, your total number of ounces on lease (earning interest) will increase (it will not decrease) – even as you are rebalanced across all leases
+
+For example, if you have 10 oz total – 4 in lease A and 4 in lease B – and then lease C comes along, your allocation to A and B may drop to 3 oz each but you’d get a new allocation of 3 oz in lease C. So in the end you’d have less oz in A and B but more total oz earning interest across all three leases (9) than when started (8)
+
+Based on our analysis, this new approach will lead to a higher % of metal deployed, with greater diversification, than our current process.
+
+
+
+How this will affect YOU the client
+
+
+
+If you want to lease metal, you must move metal to the MM Yield account
+
+Metal in the Yield account is perpetually on offer for MM leases.
+
+You’re still in control of your metal.
+
+To pass on a lease, you must opt-out of that lease. If you want to participate in the lease, you aren’t required to do anything as your metal will automatically be allocated to the lease under the new terms.
+
+If you do not want to lease metal for interest, you can move your metal to a storage account. You will still be notified of lease opportunities, and if you want to participate, you can do so by moving ounces into your MM Yield account.
+
+Beginning Jan 1, 2023, MM Storage accounts will be charged a storage fee of 0.40% annually.
+
+You can buy/sell/move metal in both your MM Storage and Yield accounts as you wish.
+
+We anticipate a greater number of leases and bonds, and marketplace participation this year and in the years ahead. After much deliberation and analysis, we are confident these changes will provide a better experience for our clients, and will position us to execute our mission - to pay interest to all the gold owners in the world.
+
+If you have any questions, or feedback, we invite you to schedule a call with your Relationship Manager.
+
+
+
+USER STORIES AND SCRIPTS
+
+
+
+CHRIS - Existing Client of MM for Years
+
+
+
+Chris has been a client of Monetary Metals for years. He enjoys earning a return on his metals and is satisfied with his experience so far. On Tuesday afternoon, Chris receives a call from his Relationship Manager, Addison Quale. Addison asks if he has a few minutes to talk. Chris agrees. Addison explains that the reason for the call is to communicate some proposed changes to how Monetary Metals does business, and to get Chris’s feedback.
+
+
+
+Addison: “Chris, we’ve been working on a few changes that we think will offer a better experience for our clients. I wanted to go over them with you and get your feedback.”
+
+
+
+Chris feels respected and honored that the company would reach out to him for feedback, but also a bit nervous. Sometimes conversations like this precede changes that aren’t so favorable.
+
+
+
+Addison explains there’s essentially one primary change with some important implications.
+
+
+
+Addison: “There is essentially one primary change which has a number of important implications. The change is that we’re moving from an opt-in to an opt-out model for participating in leases. As you know, for every lease we do, clients have to sign a separate lease agreement for that lease. So if we do 12 leases in a year, that’s 12 different lease agreements. 24 leases, 24 agreements, 48 leases, you get the picture. Obviously, as we grow, and we do see that kind of growth ahead, this is unsustainable. So what we’re proposing is that instead of the default setting for clients being “I don’t want to lease my metal” the default setting becomes, “I want to lease my metal unless I specifically opt-out.”
+
+
+
+What this looks like in real time is that clients sign one lease agreement up front is essentially an offer to put all their metal in any leases that MM offers, BUT, they always have the right to opt-out of a lease if they want to. We will continue to offer leases like we do now, with slide decks and a window for investors to review. But instead of signing a lease agreement to invest, this will give investors the right not to invest if they don’t want to.
+
+
+
+Metal will be allocated into deals based on your total account size. This is essentially like a pro-rata allocation on each lease, which is what we’ve largely been doing up to this point anyway. We’ve run some initial tests and we’re confident this will result in more client metal getting allocated in deals, which means clients will earn more interest than they otherwise would (assuming they don’t opt out). I know that’s a lot to take in. What do you think?
+
+
+
+Chris: OK. That is a lot. I guess my first question is - what if I don’t want to do that? What if I want to keep control over my account the way it is now.
+
+
+
+Addison: Sure. Yeah, you can do that. There are two different accounts - the yield account and a regular storage account. If you want your metal to earn interest, you would put it into the yield account, and that account operates how I just explained, it’s metal that’s for the purpose of leasing and is always on offer for the leases that MM does, with the opportunity to opt-out if you choose. If you want to keep metal back, you would keep it in your storage account. Now, that storage account isn’t going to earn any interest. You would have to move the metal to the yield account to earn interest.
+
+
+
+Also, something to keep in mind. Eventually that storage account is going to be charged a storage fee. We’re not going to do that any time soon, we’re proposing to do that in 12 months from the date we roll out the changes. We want to give people a changechance to interact with the new changes instead of just charging fees. We anticipate a very high % of our clients will accept the changes, but for those that don’t, this is the account we can offer.
+
+
+
+Chris: OK. Got it. So yield account if I want to earn interest, and that’s the opt-out model. And if I don’t, my metal stays in the storage account and gets charged a fee.
+
+
+
+Addison: Yes, that’s it. I want to ask though - what don’t you like about the opt-out model for leasing and earning interest?
+
+
+
+Chris: Well, I just like the way things are done now. It doesn’t seem like a hassle to me to sign a lease agreement every now and then. I mean, you don’t offer that many leases as it stands so it’s not really a burden to me. But I can see if you’re offering 48 leases every year, then that might be worse. But you don’t seem close to that at all. I obviously don’t want to pay a storage fee but I’m not sure I’m ready to go wholesale into this opt-out model. It just seems like it offers less control over how my metal goes into leases.
+
+
+
+Addison: I think I understand and I can see where you’re coming from there. In reality, it’s not any less control. You can still opt-out of leases if you don’t want to participate. That is the mechanism for how you would control what gets leased and what doesn’t, just like now you do that by deciding to offer or not on a lease and having to sign a separate agreement in order to do that.
+
+
+
+Chris: So I could just put my metal in the yield account and opt out of all leases?
+
+
+
+Addison: Technically, yes, you could do that, but we’d want to understand why you’re doing that. Is it just to get the free storage? I know that’s not true because you’re in some leases now and have been for years so presumably there’s something you like about some of our leases…
+
+
+
+Chris: Right, no I’d never do that, I’m just trying to understand….OK, let me think about this some more Addison. I have to get going soon. When do you plan to roll these changes out?
+
+
+
+Addison: Right now we’re gathering feedback from our clients. That said, we’d like to roll these changes out asap as we think they are a step in the right direction but I understand if you need some more time to think about. When would be a good time to call you back on it?
+
+
+
+Chris: Please give me a call back in a week or two.
+
+
+
+Addison: Great, will do. Thank you Chris!
+
+
+
+A couple weeks later. Chris emails Addison letting him know he’d like to put half of his account in the yield account and keep the other half in storage. Addison replies to his email affirming his decision and letting him know that to execute this, he’ll need to complete the new account agreement via SignNow. On the form, he will indicate how many ounces he wants in his Yield Account, and how many ounces in the Storage account. Additionally, the form includes a space where Chris has to choose from all the existing leases, including leases he’s invested in and leases he is not in, which ones he wants to opt out of going forward. Addison proceeds to send him the new account agreement and Chris fills out the form once he receives it.
+
+
+
+DIANE - Brand New Client that comes on board AFTER or DURING Permalease Rollout
+
+
+
+Diane has been concerned about her investments. The more she reads the more concerned she gets. Stocks are overvalued, inflation is growing, the places to invest her hard earned money are looking less and less great. In her research, she came across gold and silver and started to give them a look. Only recently when a trusted friend told her about Monetary Metals, did she really become convinced she should get some. She liked the idea of owning gold and silver and earning a return on them. She visits the web site site and begins the onboarding process to open an account.
+
+
+
+Once she completes the initial account opening form, she receives an email from Addison with the remaining steps, and forms, to complete her account. She uploads her ID, completes the W9. She then opens the Account Agreement. In the account agreement she reads that she is opening a Monetary Metals Yield Account. She understands that when she opens and funds the account, her metal will immediately be put into leases and will be earning interest, subject to lease availability. She understands that she will have the ability to review the lease and a window to opt-out if she doesn’t want to participate for any reason.
+
+
+
+There is clear language that this includes previous and new leases that Monetary Metals offers. Before finishing the document, she is then prompted to select from a list of current MM leases the ones she wants to opt-out of. The leases include the name of the lessee, the term, and the interest rate. There are links with additional information about each lease immediately under the name,  if she wants to read further. There’s also an asterisk that says *interest rates are subject to change. She clicks through a few of them but in the end decides not to select any because she trusts the recommendation from her friend. She completes the account opening form. Later, she receives a confirmation from Addison that her account is open and ready to fund. She sends a $20,000 wire to purchase gold for her account.
+
+
+
+The gold is purchased, and she receives an order confirmation. A week goes by, and nothing happens. She remembers that she opened the account and is a little concerned that something may not be right. She searches in her email inbox and pulls up an old email from Addison and clicks the calendar link to schedule a call.
+
+
+
+Addison calls Diane.
+
+
+
+Addison: Hello Diane, how can I help?
+
+
+
+Diane: Hello Addison. I wanted to ask you a few questions about my account. Last week I opened the account and funded it with $20k. I haven’t really heard anything since and I wanted to check in to make sure everything was OK.
+
+
+
+Addison: Yes, of course. Yeah, so everything is just fine with your account. I see that you did indeed fund with $20k which purchased gold and that you’re all set up to start earning interest as soon as our next lease becomes available.
+
+
+
+Diane: Ok, so we have to wait for the next lease to become available?
+
+
+
+Addison: Yes, that’s correct. As soon as the next lease becomes available you’ll be notified via email with information to review. Just a reminder that if you want to participate, there’s nothing you have to do on your end. You’ll automatically be invested in the lease. But if you don’t want to participate for any reason, you can opt-out of the lease.
+
+
+
+Diane: Ok, and the way to opt-out is…?
+
+
+
+Addison: For right now, you can just send me an email letting me know you want to opt-out. Once our online portal is complete, you’ll be able to make this selection in the portal. [Text Wrapping Break]
+
+Diane: Ok, got it. So, as of right now, my gold is just sitting in my account?
+
+
+
+Addison: Yes, that’s correct. It’s in your account, you’re not earning any interest on it at the moment, but that will change as soon as the next lease comes out.
+
+
+
+Diane: But I’m not paying any storage on it either?
+
+
+
+Addison: That’s correct.
+
+
+
+Diane: Ok, I understand. Ok, well you’ve answered all my questions. I appreciate your time in talking with me and I look forward to hearing from you when the next lease comes out.
+
+
+
+Addison: Absolutely, my pleasure Diane and sounds good. You’ll be hearing from us. Have a great day!
+
+
+
+Alternatives, Implications, Draft FAQ’s, Open Questions, Key Questions, and Proposed Next Steps
+
+
+
+Alternatives:
+
+
+
+Only bring up the interest rate change if the client brings it up. Stick to talking about the change from opt-in to opt-out
+
+Likely some alternative ways to word and message the rollout and field those kinds of questions.
+
+
+
+Implementation Implications:
+
+
+
+Need a place to track investor decisions that come in from RM communications with clients
+
+Need statements to reflect the two different account types, and how much metal is in each.
+
+Two different columns
+
+Storage
+
+Yield (remove “Leases” column)
+
+Below list what leases they are in (is this necessary?) and oz amounts
+
+How will clients perceive rebalances?
+
+The in-between statements that have both legacy and perma metal on lease
+
+Need a mechanism that allows for clients to move metal into and out of storage and yield accounts
+
+Signnow forms for now
+
+Need a new account agreement with options for
+
+Two separate accounts
+
+Selection to opt-out of current lease portfolio
+
+Terms and conditions for the new account types, yield and storage
+
+Need to codify the process for opting out. If done by email, language must be clear. “Please respond by saying OPT OUT, if you want to opt out of this lease.
+
+Then RM saves the email to a file. And update internal records accordingly.
+
+
+
+Anticipated FAQ’s with Drafted Responses:
+
+
+
+What about my ounces that are already on lease? How are those treated?
+
+
+
+Ounces  in a current deal finish the term of that deal. At that point clients who have signed the new account agreement are eligible for the roll. Those who haven't, their ounces kick over to the storage account. The roll becomes the newest lease added on the auto-rebalanced menu of leases we provide.
+
+
+
+What about lease rolls, how are those handled?
+
+
+
+Leases are rolled just like they are now with the lessee. The only change is that a roll triggers an automatic rebalancing for existing and new clients.
+
+
+
+How are interest rates set on a lease roll?
+
+
+
+Near lease maturity Monetary Metals puts that lease through its interest rate setting process to determine if a change in the rate is required.
+
+
+
+How do I opt-out of a lease?
+
+
+
+You can opt out of a lease by emailing your Relationship Manager.
+
+
+
+How much time is there to opt-out of a lease?
+
+
+
+The period to opt out of a lease is seven days from the lease opening.
+
+
+
+How do I move metal between a storage account and the yield account?
+
+
+
+Contact your Relationship Manager who will send you a form to complete where you can select how many ounces you want in each account type.
+
+
+
+How much of my metal is offered in the yield account?
+
+
+
+All metal that is in the yield account is perpetually on offer for existing and future MM leases.
+
+
+
+What determines my allocation in a given lease in the yield account?
+
+
+
+Your account size relative to the total amount on lease and the total amount not on lease determines your lease allocation. Since all metal in the yield account is on offer for leases (except for those that opt-out), each new lease that comes to market functions like a pro-rata allocation for that lease. However, there is a rebalancing that occurs as well, so with each new lease, subsequent lease offering, the composition of your lease portfolio in your account will change to reflect that rebalancing.
+
+
+
+What is the storage rate fee that you charge?
+
+
+
+We charge 0.40% per year on metal held in your storage account. Clients can elect to have storage fees paid directly from metal sold in their account, or billed to them separately.
+
+
+
+Why does my product have to be converted to participate on a lease?
+
+
+
+In order to lease metal we need a fungible, liquid, and universal physical gold product. Allocated gold pool fits the bill perfectly. It’s fungible, highly liquid, divisible and universally accepted.
+
+
+
+What is the rate of conversion on product to pool?
+
+
+
+The rates to convert pool to product and vice versa are driven by the market for physical bullion products. These markets are largely driven by supply and demand. If eagles are in high demand, the premium goes up and vice versa. These rates change daily. To understand your conversion rate, please contact your Relationship Manager who will be able to give you a sense of the rate you can expect.
+
+
+
+Can I withdraw my metal that’s already on lease?
+
+
+
+Metal on lease is under contract until the end of that term - typically 12 months. So generally speaking, that metal cannot be withdrawn from the deal. Unless, of course, another investor(s) take on your position. Monetary Metals understands that life happens and doesn’t always go according to plan. We do our best to accommodate investors who need to withdraw metal from a lease for emergency liquidity needs. In normal market conditions, we suggest budgeting two weeks (or month?) to withdraw metal that’s already on lease.
+
+
+
+
+
+How exactly is my metal auto-rebalanced? Auto-diversified?
+
+
+
+Need Bill for this one.
+
+
+
+How do you ensure that my previous allocations don’t decline when there’s a rebalance?
+
+
+
+Need Bill for this one.
+
+
+
+Open Questions:
+
+
+
+How long is the opt-out period?
+
+How are opt-outs handled?
+
+Do new accounts get automatically allocated to existing leases?
+
+If so, when? And how does this affect ratcheting?
+
+How are ounces treated that are already in a lease?
+
+Do we display all leases (gold, silver, platinum) on the new agreement? How do we treat clients who don’t opt out of a silver lease, but don’t have silver immediately on account, but add it later? Same for other metals.
+
+If there’s an interest rate change in a lease roll, or prior to roll, do clients have the ability to opt out of that lease, even if they previously opted in at the earlier rate?
+
+Do clients opt out of Lessees entirely? Or can they just opt out of an expansion with a particular lessee? In other words, can a client who says I am ok with how much metal I have with MMX, but I don’t want any more. Can they opt out of the expansion only?
+
+Does the permalease allow increased liquidity for clients who want to withdraw metal from a lease? Technically, all ounces are on offer, and we know which leases are opted out of, so there should be a ready supply of ounces that would replace clients who want to withdraw.
+
+Is an investor able to opt-out of a deal that they previously opted in for? It’s not a withdrawal, just an opt out but after the opt-out period.
+
+For accounts currently requiring two signors, can either opt out? I think the answer is yes, but we’ll likely have to make this explicit in the agreement.
+
+CONVERSION OF PRODUCT FOR AGGREGATORS QUESTION: 	Thus far it seems we need to have all metal in the Yield Account be pool. But do we need to make an exception for aggregators? Aggregators often hold metal in the form of product outside the comfy confines of FideliTrade – where we most easily use gold and silver pool. Think about UPMA with their gold and silver eagles. Or SWP in the Cayman Islands – which wants to work with us. The way those guys are going to work with us is – transfer product over to us, and then they get to participate in lease deals. Conversion of their metal immediately may not be feasible, nor possible, nor the best way forward. We may need to allow them to participate in deals while still holding product. And only once in a while, as appropriate, do we convert their metal over to pool.
+
+Opting in after opting out?
+
+When do we start to charge storage? Option to start charging storage immediately for new clients who elect this option, while allowing a 12 month grace period for existing clients.
+
+What changes to statements will occur, if any?
+
+Key Questions for RM’s to ask when going to clients:
+
+
+
+What do you think about this?
+
+How many ounces would you consider putting in this?
+
+Is there anything that isn’t clear?
+
+
+
+Proposed Next Steps and Implementation
+
+
+
+Prep a short presentation explaining the key changes
+
+Prep the signnow forms required (including the account agreement?)
+
+Disseminate to a few select investors (soft opening)
+
+Gather feedback and make adjustments to pitches, materials, and any other technical changes that come up.
+
+Roll out to all investors.
+
+
+
+Cutting Room Floor/Additional Material
+
+Script for Discussion of Interest Rate Change
+
+Addison: Based on feedback from clients, and observing investor behavior around our interest rate auction process, MM is retiring our auction format and bringing the process for setting interest rates in house. In other words, instead of clients having to bid in the auction process, with the risk of getting nothing, interest rates will be set by Monetary Metals for all future leases. The advantages of this are that it reduces the amount of time required to do a deal, which means more opportunities for clients to earn interest, it reduces the amount of paperwork required for clients to participate in leases, it simplifies the process for clients to invest in leases (they can decide yes or no to a lease, instead of having to think about an interest rate), and it onboards feedback from investors that MM is ultimately best positioned to determine the interest rate on investors’ behalf.
+
+
+
+Addison offers to discuss this option further if Chris would like to.
+
+
+
+Chris thinks to himself…one of the things he liked about MM is that investors could choose the rate. This seems to be a deviation from their ethos. He ventures a question,
+
+
+
+Chris: “so, you guys are deciding to play the central bank now and set the rate?”
+
+
+
+Addison smiles and affirms Chris’s question.
+
+
+
+Addison:  “Ha, yeah, good question. You know, we didn’t come to this decision lightly. There was a lot of debate over this issue. We obviously are no friends of central banking and its pernicious effects. And while on the surface this looks like we are taking control away from investors, at the end of the day, it doesn’t change much. You’re still in control of your metal. If you don’t like the lease because of the interest rate, or for any other reason, you don’t have to participate. Clearly we don’t have that same freedom in dollars, and likely never will.
+
+Secondly, we’ve learned a few things over the years. When we first started out, we thought it was really important to have the market set the rate. That is, the individual investors wrote in an interest rate for their metal. And we think that was the right decision early on. But over time as our marketplace has grown, we’ve found that this feature, while very important in the beginning, is now an obstacle to many. More and more clients tell us they don’t know what to write in, they don’t want to fiddle with having to go through that process. You wouldn’t believe how many people ask me “what interest rate should I write in?” More and more clients are saying they’’d rather us just decide the rate and then they decide to invest or not. The early clients we had loved us and were really gung ho and happy to go through that process. But as we’ve grown, not all clients want that kind of heavy lifting when it comes to investing. In addition to that, we’ve seen the behavior tilt from investors really going through the process of analyzing the deal to a lot of investors just making lowball offers to try and get their metal allocated. We see more and more offers that are obviously trying to get as much metal placed, without any regard to the interest rate. This isn’t ideal and perverts the original intentions of the auction process, which was to arrive at a fair price of the risk/reward of the deal.
+
+
+
+It’s one of those things you learn as you grow - what was really important in the beginning to get the business off the ground, becomes less important, and maybe even a hindrance, as the business is growing. Does that make sense?
+
+
+
+Chris nods his head and thinks to himself, “yeah, that makes sense, I get it.” Chris asks another question:
+
+
+
+Chris: So what will be your process for setting the interest rate then?
+
+
+
+Addison: It’s quite a process and could require an entire separate call if you want to go into greater detail but essentially it’s a combination of our due diligence team, underwriting team and separate interest rate committee working together to arrive at an interest rate and negotiate that with the lessee. We also built a model that assigns different weights to different parts of the deal, based on the previous deals we’ve done. So the new process does take into account the precedence that has been set by the deals we’ve done in our marketplace, when the rates were set by our auction.
+
+
+
+Chris: Ok. Got it. What’s the second change?
+
+
+
+
+
+Notes from Meeting:
+
+
+
+
+
+
+
+
+
+OTHER THOUGHT:
+
+Does everyone including aggs have to be forced conversion to pool?
+
+What about UPMA SWP? Could be a deal breaker
+
+ 
